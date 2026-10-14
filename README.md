@@ -35,9 +35,3 @@ Freelance missions (remote / France / international): full-stack, technical lead
 #### Contact
 - 📧 [mickael.lambert2@gmail.com](mailto:mickael.lambert2@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mickael-lambert/)
-
----
-
-![Mickael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mickaellambert&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mickaellambert&layout=compact&hide_border=true)
