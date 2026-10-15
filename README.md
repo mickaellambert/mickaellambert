@@ -35,3 +35,4 @@ Freelance missions (remote / France / international): full-stack, technical lead
 #### Contact
 - 📧 [mickael.lambert2@gmail.com](mailto:mickael.lambert2@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mickael-lambert/)
+- 🧑‍💻 [Malt](https://www.malt.fr/profile/mickaellambert1)
